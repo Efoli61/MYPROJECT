@@ -1,2 +1,1 @@
-# MYPROJECT
-Discord
+# TUR1982_AI_BOT

@@ -1,0 +1,5 @@
+0 Google
+1 Spotify
+2 Steam
+3 Youtube
+4 Instagram
